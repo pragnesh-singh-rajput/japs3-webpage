@@ -1,0 +1,181 @@
+.home-container {
+  position: relative;
+  background: linear-gradient( #292533 100%, #594c6e 100%);
+  height: 1000vh; 
+  color: #ffffff;
+  font-family: 'Inter', sans-serif;
+}
+
+
+.japs3 {
+  position: absolute;
+  width: 130px;
+  height: 48px;
+  top: 95px;
+  left: 134px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 48.41px;
+  color: #ffffff;
+}
+
+
+.btn {
+  position: absolute;
+  width: 52px;
+  height: 22px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21.78px;
+  color: #ffffff;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.about {
+  top: 116px;
+  left: 402px;
+}
+
+.courses {
+  top: 116px;
+  left: 574px; 
+}
+
+.project {
+  top: 116px;
+  left: 760px; 
+}
+
+.JoinIn{
+  width: 222px;
+  height: 58px;
+  position: absolute;
+  top: 654px;
+  left: 186px;
+  border-radius: 30px 30px 30px 0px;
+  background: linear-gradient(to right, #0F599E 0%, #082A4A 100%);
+  color: white;
+  text-align: center;
+  line-height: 25px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  font-family: 'Inter', sans-serif;
+  text-decoration: none;
+}
+
+.JoinIn:hover {
+  background: linear-gradient(to right, #0D4F8F 0%, #071E3C 100%); 
+}
+
+.SignIn{
+ width: 222px;
+ height: 58px;
+ position: absolute;
+ top: 654px;
+ left: 455px;
+ border-radius: 30px 30px 0px 30px;
+ background-color: #413C4D;
+ color: white;
+ text-align: center;
+ line-height: 58px;
+ font-size: 16px;
+ border: none;
+ cursor: pointer;
+ font-family: Arial, sans-serif;
+ text-decoration: none;
+}
+
+.SignIn:hover {
+ background-color: #1b2a3b; 
+}
+
+
+.school-title {
+  position: absolute;
+  width: 500px;
+  height: 191px;
+  top: 305px;
+  left: 174px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  font-size: 76px;
+  line-height: 91.98px;
+  letter-spacing: -0.02em;
+  color: #ffffff;
+}
+
+.description {
+  position: absolute;
+  width: 573px;
+  height: 60px;
+  top: 562px;
+  left: 174px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29.05px;
+  color: #ffffff;
+}
+
+.descript {
+  position: absolute;
+  width: 118px;
+  height: 30px;
+  top: 833px;
+  left: 187px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29.05px;
+  color: #ffffff;
+  letter-spacing: -0.02em;
+}
+
+.Box{
+  width: 240px;
+  height: 149.3px;
+  position: absolute;
+  top: 887.7px;
+  left: 174px;
+  border-radius: 64px 64px 64px 0px;
+  background: linear-gradient(to bottom, #0F599E 0%, #082A4A 100%);
+  
+}
+
+.Box:hover {
+  background: linear-gradient(to right, #0D4F8F 0%, #071E3C 100%);
+}
+
+.learner{
+ position: absolute;
+ width: 118px;
+ height: 49.77px;
+ top: 913.62px;
+ left: 247px;
+ font-family: Inter;
+ font-size: 40px;
+ font-weight: 700;
+ line-height: 48.41px;
+ text-align: left;
+ colors : white;
+}
+
+
+.learner2{
+ position: absolute;
+ width: 100px;
+ height: 60.14px;
+ top: 976.86px;
+ left: 247px;
+ font-family: Inter;
+ font-size: 24px;
+ font-weight: 400;
+ line-height: 29.05px;
+ text-align: left;
+ colors : white;
+}
