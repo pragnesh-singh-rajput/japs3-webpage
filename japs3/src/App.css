@@ -1,7 +1,7 @@
 .home-container {
   position: relative;
-  background: linear-gradient( #292533 100%, #594c6e 100%);
-  height: 1000vh;
+  background: #2f2a3a;
+  height: 10000px;
   color: #ffffff;
   font-family: 'Inter', sans-serif;
   display: flex;
@@ -10,14 +10,9 @@
 
 .japs3 {
   position: absolute;
-  width: 130px;
-  height: 48px;
-  top: 95px;
-  left: 134px;
-  font-family: 'Inter', sans-serif;
-  font-weight: 700;
-  font-size: 40px;
-  line-height: 48.41px;
+  top: 107px;
+  left: 125px;
+  line-height: 48.41px; 
   color: #ffffff;
 }
 
@@ -49,6 +44,31 @@
 .project {
   top: 116px;
   left: 760px; 
+}
+
+.yellowrectangle {
+ /* Rectangle 1 */
+
+position: absolute;
+width: 200px;
+height: 650px;
+left: 996px;
+top: 108px;
+
+background: #D9D9D9;
+border-radius: 103px;
+}
+
+.yellow {
+/* 1 */
+
+position: absolute;
+width: 226px;
+height: 665px;
+left: 996px;
+top: 99px;
+
+background: #D9D9D9;
 }
 
 @keyframes blue-gradient {
@@ -170,7 +190,7 @@
  font-weight: 700;
  line-height: 48.41px;
  text-align: left;
- colors : white;
+ color : white;
 }
 
 
@@ -185,14 +205,5 @@
  font-weight: 400;
  line-height: 29.05px;
  text-align: left;
- colors : white;
-}
-
-.yellow{
-  width: 200px;
-  height: 650px;
-  position: absolute;
-  top: 108px;
-  left: 996px;
-  border-radius: 50px;
+ color: white;
 }
